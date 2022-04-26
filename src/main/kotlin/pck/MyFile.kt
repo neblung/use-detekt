@@ -6,4 +6,7 @@ fun foo() {
         listOf(it)
     }
     println(digits)
+
+    for (i in 0..1)
+        println(i)
 }

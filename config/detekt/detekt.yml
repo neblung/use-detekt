@@ -559,7 +559,7 @@ style:
   MandatoryBracesIfStatements:
     active: false
   MandatoryBracesLoops:
-    active: false
+    active: true
   MaxLineLength:
     active: true
     maxLineLength: 120
